@@ -1,0 +1,10 @@
+Run npm init react-app shopping-hub
+
+Run npm install react-router-dom@6
+
+Add a sass style sheet
+Run  npm install sass
+
+Install react-redux => Run npm install react-redux
+
+install toolkit => npm i @reduxjs/toolkit
